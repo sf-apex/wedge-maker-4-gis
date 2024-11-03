@@ -1,0 +1,5 @@
+# ignore future additions to the pro folder's example_data dir
+# user outputs may export alongside the provided test data
+
+arcgispro_py3/example_data
+arcgispro_py3/example_data/*
